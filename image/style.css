@@ -1,0 +1,14 @@
+.creative{
+    margin: auto;
+    width: fit-content;
+}
+.row{
+    width: 350px;
+    border: 2px solid gray;
+    border-radius: 10px;
+
+}
+.row img{
+    width: 100%;
+
+}
